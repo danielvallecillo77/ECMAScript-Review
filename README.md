@@ -1,6 +1,7 @@
-# ECMAScript-Review
-This is just a review of the main ecmascript functions useful for day-to-day development.
+# ECMAScript-Review description
+This is just a quick review of some useful day-to-day functions that ECMAScript has been introducing throughout its versions.
 
+# Contents
 ES6
   - Arrow functions
   - Promises
@@ -10,8 +11,11 @@ ES6
   - Initializate parameters in functions
   
 ES7
-- Includes method
+  - Includes method
 
 ES8
-- Async-Wait
-- Objects to iterables
+  - Async-Wait
+  - Objects to iterables
+
+# How to use it?
+Those small snippets can be executed individually with VS "code runner" extension.
